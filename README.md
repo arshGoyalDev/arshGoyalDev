@@ -17,6 +17,7 @@
   <img alt="JavaScript" width="40px" src="./Images/javascript.png" />
   <img alt="Git" width="40px" src="./Images/git.png" />
   <img alt="React.js" width="40px" src="./Images/react.png" />
+  <img alt="React.js" width="40px" src="./Images/sass.png" />
 </div>
 
 <br>
