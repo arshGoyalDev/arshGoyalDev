@@ -1,4 +1,4 @@
-# Hello, I'm Arsh aka developingWeb <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Arsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### I'm from India
 
