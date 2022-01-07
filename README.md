@@ -11,10 +11,10 @@
 
 ## Technologies and Tools
 
-| Frontend | Backend |  Tools |
-| :------: | :------:| :-----:|
-| <code><img alt="Html5" width="40px" src="./Images/html.png" /></code> <code><img alt="Css3" width="40px" src="./Images/css3.png" /></code> <code><img alt="JavaScript" width="40px" src="./Images/javascript.png" /></code> | Current no languages | <code><img alt="Git" width="40px" src="./Images/git.png" /></code> <code><img alt="Visual Studio Code" width="40px" src="./Images/vs-code.png" /></code>
-| <code><img alt="React.js" width="40px" src="./Images/react.png" /></code> <code><img alt="React.js" width="40px" src="./Images/sass.png" /><code> | | |
+| Frontend |  Tools |
+| :------: | :----: |
+| <code><img alt="Html5" width="40px" src="./Images/html.png" /></code> <code><img alt="Css3" width="40px" src="./Images/css3.png" /></code> <code><img alt="JavaScript" width="40px" src="./Images/javascript.png" /></code> | <code><img alt="Git" width="40px" src="./Images/git.png" /></code> <code><img alt="Visual Studio Code" width="40px" src="./Images/vs-code.png" /></code>
+| <code><img alt="sass" width="40px" src="./Images/sass.png" /></code> <code><img alt="React.js" width="40px" src="./Images/react.png" /><code> | |
 
 <br>
 
