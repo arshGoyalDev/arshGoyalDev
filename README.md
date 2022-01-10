@@ -13,8 +13,8 @@
 
 | Frontend |  Tools |
 | :------: | :----: |
-| <code><img alt="Html5" width="40px" src="./Images/html.png" /></code> <code><img alt="Css3" width="40px" src="./Images/css3.png" /></code> <code><img alt="JavaScript" width="40px" src="./Images/javascript.png" /></code> | <code><img alt="Git" width="40px" src="./Images/git.png" /></code> <code><img alt="Visual Studio Code" width="40px" src="./Images/vs-code.png" /></code>
-| <code><img alt="sass" width="40px" src="./Images/sass.png" /></code> <code><img alt="React.js" width="40px" src="./Images/react.png" /><code> | |
+| <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /></code>  | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /></code> |
+| <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" /></code> | |
 
 <br>
 
