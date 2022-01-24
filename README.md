@@ -1,4 +1,6 @@
-# Hello, I'm Arsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="./Images/header.png">
+
+<br>
 
 ### I'm from India
 
