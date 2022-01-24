@@ -1,4 +1,4 @@
-<img src="./Images/header.png" width="100%">
+<img src="./Images/header.png" width="100%" height="180px">
 
 
 ### I'm from India
