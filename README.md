@@ -1,6 +1,5 @@
 <img src="./Images/header.png" width="100%">
 
-<br>
 
 ### I'm from India
 
