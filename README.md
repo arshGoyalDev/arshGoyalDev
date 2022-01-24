@@ -3,7 +3,7 @@
 ### I'm from India
 
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 You can mail me at arshgoyal2005@gmail.com
 
