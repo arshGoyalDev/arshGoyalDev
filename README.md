@@ -21,6 +21,24 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&layout=compact)](https://www.github.com/arshWebDev)
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&theme=radical" />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&layout=compact&theme=radical" margin="40px" />
+</a>
 
+<br>
 
+## My Favorite Projects
+
+<a href="https://github.com/arshWebDev/notes-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=notes-app&theme=radical" />
+</a>
+<a href="https://github.com/arshWebDev/interactive-comments-section">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=interactive-comments-section&theme=radical" />
+</a>
+
+<!-- <a href="https://github.com/arhsWebDev/weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=weather-app" />
+</a> -->
