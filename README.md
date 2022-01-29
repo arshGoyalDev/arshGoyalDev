@@ -22,7 +22,7 @@
 ## Github Stats
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&theme=radical" width="500px" />
 </a>
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&layout=compact&theme=radical" margin="30px" />
