@@ -35,6 +35,6 @@
 <a href="https://github.com/arshWebDev/notes-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=notes-app&theme=radical" />
 </a>
-<a href="https://github.com/arhsWebDev/weather-app">
+<a href="https://github.com/arshWebDev/weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=weather-app&theme=radical" />
 </a>
