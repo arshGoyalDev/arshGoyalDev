@@ -35,10 +35,6 @@
 <a href="https://github.com/arshWebDev/notes-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=notes-app&theme=radical" />
 </a>
-<a href="https://github.com/arshWebDev/interactive-comments-section">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=interactive-comments-section&theme=radical" />
+<a href="https://github.com/arhsWebDev/weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=weather-app&theme=radical" />
 </a>
-
-<!-- <a href="https://github.com/arhsWebDev/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arshWebDev&repo=weather-app" />
-</a> -->
