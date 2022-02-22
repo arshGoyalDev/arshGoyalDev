@@ -8,8 +8,6 @@
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 You can mail me at arshgoyalDev@gmail.com
 
-<br>
-
 ## Technologies and Tools
 
 | Frontend |  Tools |
@@ -17,7 +15,6 @@
 | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" /></code>  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" /></code>  | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="30px" /></code>  |
 | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25px" /></code> | |
 | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" /></code> | |
-<br>
 
 ## Github Stats
 
@@ -27,8 +24,6 @@
 <a href="https://github.com/arshWebDev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&layout=compact&theme=radical" margin="30px" />
 </a>
-
-<br>
 
 ## My Favorite Projects
 
