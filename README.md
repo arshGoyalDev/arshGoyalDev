@@ -30,7 +30,7 @@
   <img alt="Aakashrao-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 </a>
 
-<a href="https://github.com/AakashRao-dev">
+<a href="https://github.com/arshWebDev">
   <img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true" />
 </a>
 
@@ -51,6 +51,6 @@
 <a href="https://github.com/arshWebDev">
     <img src="https://komarev.com/ghpvc/?username=arshWebDev">
 </a>
-<a href="https://github.com/AakashRao-Dev?tab=followers">
+<a href="https://github.com/arshWebDev">
   <img src="https://img.shields.io/github/followers/arshWebDev?label=Followers&style=social" alt="GitHub Badge">
 </a>
