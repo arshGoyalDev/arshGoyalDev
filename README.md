@@ -34,9 +34,6 @@
   <img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true" />
 </a>
 
-<br/>
-<br/>
-
 <a href="https://github.com/arshWebDev/github-readme-activity-graph">
   <img alt="arshWebDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true" />
 </a>
