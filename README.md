@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 You can mail me at arshgoyalDev@gmail.com
 
-## Languages and Tools:
+## Languages and Tools
 
 |                                                                                                                                                                                       Frontend                                                                                                                                                                                        |                                                                                                                     Tools                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -38,7 +38,7 @@
   <img alt="arshWebDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true" />
 </a>
 
-## Connect with me:
+## Connect with me
 
 <a href = "https://twitter.com/arshWebDev">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="28px"/>
