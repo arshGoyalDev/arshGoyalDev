@@ -15,9 +15,9 @@
 
 |                                                                                                                                                                                       Frontend                                                                                                                                                                                        |                                                                                                                     Tools                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" /></code> | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="30px" /></code> |
-|     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25px" /></code>      |                                                                                                                                                                                                                                                |
-|                                                                   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" /></code>                                                                    |                                                                                                                                                                                                                                                |
+| <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="15px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="15px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14px" /></code> | <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="15px" /></code> |
+|     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="15px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="15px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14px" /></code>      |                                                                                                                                                                                                                                                |
+|                                                                   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="15px" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="15px" /></code>                                                                    |                                                                                                                                                                                                                                                |
 
 
 ## Github Stats
@@ -27,15 +27,15 @@
 </a>
 
 <a href="https://github.com/arshWebDev">
-  <img alt="Aakashrao-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img alt="arshWebDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/arshWebDev">
-  <img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true" />
+  <img alt="arshWebDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/arshWebDev">
-  <img alt="arshWebDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true" />
+  <img alt="arshWebDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph" />
 </a>
 
 ## Connect with me
