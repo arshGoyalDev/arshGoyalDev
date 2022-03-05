@@ -1,8 +1,8 @@
 <img src="./Images/header.png" width="100%" />
 
-<h2 align="center">I'm a Web Developer from India 
+<h3 align="center">I'm a Web Developer from India 
   <img src="https://img.icons8.com/color/48/000000/india.png" width="20px" align="center"/>
-</h2>
+</h3>
 
 ## About Me
 
