@@ -1,10 +1,6 @@
 <img src="./Images/github-header.png" width="100%" />
 
-<h3 align="center">I'm a Web Developer from India 
-  <img src="https://img.icons8.com/color/48/000000/india.png" width="20px" align="center"/>
-</h3>
-
-## About Me
+## I'm Web Developer from India
 
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning React.js
