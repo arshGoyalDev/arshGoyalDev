@@ -42,9 +42,11 @@
 
 ## Connect with me
 
-<a href = "https://twitter.com/arshWebDev">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="28px"/>
-</a>
+<p align="left">
+  <a href = "https://twitter.com/arshWebDev">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="28px"/>
+  </a>
+</p>
 
 ## Views and Followers
 
