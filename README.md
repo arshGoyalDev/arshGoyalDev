@@ -5,7 +5,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 You can mail me at arshgoyalDev@gmail.com
+- 📫 You can mail me at <a href="mailto:arshgoyalDev@gmail.com">arshgoyalDev@gmail.com</a>
 
 ## Languages and Tools
 
