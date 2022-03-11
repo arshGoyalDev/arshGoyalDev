@@ -46,4 +46,4 @@
 
 ## Quotes
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/arshWebDev)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/arshWebDev)
