@@ -43,3 +43,7 @@
     <img src="https://img.icons8.com/color/50/000000/hashnode.png" width="28px"/>
   </a>
 </p>
+
+## Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/arshWebDev)
