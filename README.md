@@ -5,8 +5,10 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 You can mail me at <a href="mailto:arshgoyalDev@gmail.com">arshgoyalDev@gmail.com</a>
+- 📫 You can mail me at [arshgoyalDev@gmail.com](mailto:arshgoyalDev@gmail.com)
 
+[![](https://komarev.com/ghpvc/?username=arshWebDev&color=blue&label=Profile%20Views)](https://github.com/arshWebDev)
+[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers)](https://github.com/arshWebDev)
 ## Languages and Tools
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="22px" /></code>
@@ -22,23 +24,15 @@
 
 <br>
 
-<a href="https://github.com/arshWebDev">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arsh Goyal streak" src="https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</a>
+[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/arshWebDev)
 
 ## GitHub Stats
 
-<a href="https://github.com/arshWebDev">
-  <img alt="arshWebDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/arshWebDev)
 
-<a href="https://github.com/arshWebDev">
-  <img alt="arshWebDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true" />
-</a>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshWebDev&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true)](https://github.com/arshWebDev)
 
-<a href="https://github.com/arshWebDev">
-  <img alt="arshWebDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph" />
-</a>
+[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph)](https://github.com/arshWebDev)
 
 ## Connect with me
 
