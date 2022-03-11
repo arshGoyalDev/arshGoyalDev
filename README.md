@@ -43,10 +43,10 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/arshWebDev">
+  <a href="https://twitter.com/arshWebDev" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="28px"/>
   </a>
-  <a href="https://hashnode.com/@arshWebDev">
+  <a href="https://hashnode.com/@arshWebDev" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/hashnode.png" width="28px"/>
   </a>
 </p>
