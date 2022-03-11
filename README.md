@@ -43,16 +43,10 @@
 ## Connect with me
 
 <p align="left">
-  <a href = "https://twitter.com/arshWebDev">
+  <a href="https://twitter.com/arshWebDev">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="28px"/>
   </a>
+  <a href="https://hashnode.com/@arshWebDev">
+    <img src="https://img.icons8.com/color/50/000000/hashnode.png" width="28px"/>
+  </a>
 </p>
-
-## Views and Followers
-
-<a href="https://github.com/arshWebDev">
-    <img src="https://komarev.com/ghpvc/?username=arshWebDev">
-</a>
-<a href="https://github.com/arshWebDev">
-  <img src="https://img.shields.io/github/followers/arshWebDev?label=Followers&style=social" alt="GitHub Badge">
-</a>
