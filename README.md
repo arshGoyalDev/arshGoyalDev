@@ -22,7 +22,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22px" /></code>
 
-<br>
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/arshWebDev)
 
