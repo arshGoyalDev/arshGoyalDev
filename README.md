@@ -16,7 +16,7 @@ let arshWebDev = {
 ```
 </h3>
 
-- You can reach me out [here](https://bio.link/arshWebDev)
+- You can reach me out [here][bio.link]
 
 ## Languages & Tools
 
@@ -30,18 +30,26 @@ let arshWebDev = {
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22px" /></code>
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)](https://github.com/arshWebDev)
+[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/arshWebDev)
+[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
-[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)](https://github.com/arshWebDev)
+[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
 ## Connect with me
 
-[![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@arshWebDev)
-[![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/arshWebDev)
-[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)](mailto:arshogoyalDev@gmail.com)
+[![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)][hashnode]
+[![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)][twitter]
+[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)][mail]
 ### Followers
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)](https://twitter.com/arshWebDev)
-[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)](https://github.com/arshWebDev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)][twitterFollowers]
+[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)][githubFollowers]
+
+[mail]: mailto:arshgoyalDev@gmail.com
+[github]: https://github.com/arshWebDev
+[githubFollowers]: https://github.com/arshWebDev?tab=followers
+[twitter]: https://twitter.com/arshWebDev
+[twitterFollowers]: https://twitter.com/arshWebDev/followers
+[hashnode]: https://hashnode.com/@arshWebDev
+[bio.link]: https://bio.link/arshWebDev
