@@ -30,13 +30,13 @@ let arshWebDev = {
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph)](https://github.com/arshWebDev)
 
-[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)](https://github.com/arshWebDev)
 ## Connect with me
 
 [![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@arshWebDev)
 [![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/arshWebDev)
 [![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63fa)](mailto:arshogoyalDev@gmail.com)
 
-## Quotes
+### Followers
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/arshWebDev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)](https://twitter.com/arshWebDev)
+[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)](https://github.com/arshWebDev)
