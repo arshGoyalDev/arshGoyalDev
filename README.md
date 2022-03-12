@@ -3,14 +3,14 @@
 ## I'm Web Developer from India
 
 <code lang="js">
-  <pre>
-    let aboutMe = {
-      interest: "fullstack development",
-      learning: "react.js",
-      collaborate: "frontend projects",
-      hobbies: ["programming", "reading"],
-    }
-  </pre>
+  <!-- <pre> -->
+  let aboutMe = {
+    interest: "fullstack development",
+    learning: "react.js",
+    collaborate: "frontend projects",
+    hobbies: ["programming", "reading"],
+  }
+  <!-- </pre> -->
 </code>
 
 [![](https://komarev.com/ghpvc/?username=arshWebDev&color=blue&label=Profile%20Views)](https://github.com/arshWebDev)
