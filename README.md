@@ -2,16 +2,20 @@
 
 ## I'm Web Developer from India
 
-<code lang="js">
-  <!-- <pre> -->
-  let aboutMe = {
-    interest: "fullstack development",
-    learning: "react.js",
-    collaborate: "frontend projects",
-    hobbies: ["programming", "reading"],
-  }
-  <!-- </pre> -->
-</code>
+<!-- <code lang="js">
+  <pre>
+    let aboutMe = {
+      interest: "fullstack development",
+      learning: "react.js",
+      collaborate: "frontend projects",
+      hobbies: ["programming", "reading"],
+    }
+  </pre>
+</code> -->
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on frontend projects
+- 📫 You can reach me out [here](https://bio.link/arshWebDev)
 
 [![](https://komarev.com/ghpvc/?username=arshWebDev&color=blue&label=Profile%20Views)](https://github.com/arshWebDev)
 [![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers)](https://github.com/arshWebDev)
