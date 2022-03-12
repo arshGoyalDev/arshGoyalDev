@@ -11,7 +11,7 @@ let arshWebDev = {
   interest: "fullstack development",
   learning: "react.js",
   collaborate: "frontend projects",
-  hobbies: ["programming", "reading"],
+  hobbies: ["programming", "reading"]
 }
 ```
 </h3>
