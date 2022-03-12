@@ -28,12 +28,6 @@ let arshWebDev = {
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph)](https://github.com/arshWebDev)
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 ## Connect with me
 
 [![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@arshWebDev)
