@@ -1,4 +1,4 @@
-![](./Images//github-header.png)
+<img src="./Images/github-header.png" width="100%">
 
 ## About Me
 
