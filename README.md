@@ -2,8 +2,6 @@
 
 ## About Me
 
-<h3>
-
 ```js
 let arshWebDev = {
   introduction: "I'm a Web Developer",
@@ -14,7 +12,7 @@ let arshWebDev = {
   hobbies: ["programming", "reading"],
 }
 ```
-</h3>
+
 - You can reach me out [here](https://bio.link/arshWebDev)
 
 ## Languages & Tools
