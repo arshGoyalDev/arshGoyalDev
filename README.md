@@ -12,8 +12,6 @@ let arshWebDev = {
 ```
 - You can reach me out [here](https://bio.link/arshWebDev)
 
-## Languages and Tools
-
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="17px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="22px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22px" /></code>
@@ -29,6 +27,11 @@ let arshWebDev = {
 [![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/arshWebDev)
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph)](https://github.com/arshWebDev)
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## Connect with me
 
