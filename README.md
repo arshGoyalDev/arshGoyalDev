@@ -34,7 +34,7 @@ let arshWebDev = {
 
 [![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@arshWebDev)
 [![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/arshWebDev)
-[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63fa)](mailto:arshogoyalDev@gmail.com)
+[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)](mailto:arshogoyalDev@gmail.com)
 ### Followers
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)](https://twitter.com/arshWebDev)
