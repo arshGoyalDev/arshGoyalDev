@@ -36,11 +36,6 @@ let arshWebDev = {
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
-## Recent Activity
-
-<!--START_SECTION:activity--> 
-<!--END_SECTION:activity--> 
-
 ## Connect with me
 
 [![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)][hashnode]
