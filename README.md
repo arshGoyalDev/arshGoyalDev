@@ -1,9 +1,11 @@
-<img src="./Images/github-header.png" width="100%" />
+![](./Images//github-header.png)
 
-## I'm a Web Developer from India
+## About Me
 
 ```js
 let arshWebDev = {
+  introduction: "I'm a Web Developer",
+  location: "India",
   interest: "fullstack development",
   learning: "react.js",
   collaborate: "frontend projects",
@@ -11,6 +13,8 @@ let arshWebDev = {
 }
 ```
 - You can reach me out [here](https://bio.link/arshWebDev)
+
+## Languages & Tools
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="17px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="22px" /></code>
