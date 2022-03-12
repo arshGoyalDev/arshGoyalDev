@@ -30,11 +30,11 @@ let arshWebDev = {
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22px" /></code>
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/arshWebDev)
+[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)](https://github.com/arshWebDev)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/arshWebDev)
+[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/arshWebDev)
 
-[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=141321&color=a8fdf6&line=fd428d&point=f7d747&hide_border=true&custom_title=arshWebDev's%20Contribution%20Graph)](https://github.com/arshWebDev)
+[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)](https://github.com/arshWebDev)
 
 ## Connect with me
 
