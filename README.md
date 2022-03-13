@@ -1,5 +1,13 @@
 <img src="./Images/github-header.png" width="100%">
 
+<p align="center">
+
+[![hashnode](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)][hashnode]
+[![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)][twitter]
+[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)][mail]
+
+</p>
+
 ## About Me
 
 <h3>
@@ -39,10 +47,6 @@ let arshWebDev = {
 [![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
 ## Connect with me
-
-[![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)][hashnode]
-[![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)][twitter]
-[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)][mail]
 
 ### Followers
 
