@@ -12,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=arshWebDev" />
 </p>
 
+
 ## About Me
 
 <h3>
@@ -31,14 +32,16 @@ let arshWebDev = {
 
 - You can reach me out [here][bio.link]
 
-## Languages & Tools
+## Technologies
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="17px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="22px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="19px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="19px" /></code>
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="22px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="22px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="22px" /></code>
+
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22px" /></code>
 
