@@ -11,9 +11,10 @@ let arshWebDev = {
   interest: "fullstack development",
   learning: "react.js",
   collaborate: "frontend projects",
-  hobbies: ["programming", "reading"]
-}
+  hobbies: ["programming", "reading"],
+};
 ```
+
 </h3>
 
 - You can reach me out [here][bio.link]
@@ -42,15 +43,16 @@ let arshWebDev = {
 [![twitter](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)][hashnode]
 [![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)][twitter]
 [![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)][mail]
+
 ### Followers
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)][twitterFollowers]
-[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)][githubFollowers]
+[![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)][twitterfollowers]
+[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)][githubfollowers]
 
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshWebDev
-[githubFollowers]: https://github.com/arshWebDev?tab=followers
+[githubfollowers]: https://github.com/arshWebDev?tab=followers
 [twitter]: https://twitter.com/arshWebDev
-[twitterFollowers]: https://twitter.com/arshWebDev/followers
+[twitterfollowers]: https://twitter.com/arshWebDev/followers
 [hashnode]: https://hashnode.com/@arshWebDev
 [bio.link]: https://bio.link/arshWebDev
