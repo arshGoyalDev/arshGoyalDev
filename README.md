@@ -3,9 +3,9 @@
 <br>
 
 <p align="center">
-  <a href='https://hashnode.com/@arshWebDev'><img src="https://img.shields.io/badge/-hashnode-blue?style=flat&logo=hashnode" /></a>
-  <a href='https://twitter.com/arshWebDev'><img src="https://img.shields.io/badge/-twitter-white?style=flat&logo=twitter" /></a>
-  <a href='mailto:arshgoyalDev@gmail.com'><img src="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=flat" /></a>
+  <a href='https://hashnode.com/@arshWebDev'><img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" /></a>
+  <a href='https://twitter.com/arshWebDev'><img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" /></a>
+  <a href='mailto:arshgoyalDev@gmail.com'><img src="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge" /></a>
 
 </p>
 
