@@ -1,10 +1,11 @@
 <img src="./Images/github-header.png" width="100%">
 
-<p align="center">
+<br>
 
-[![hashnode](https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode)][hashnode]
-[![twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)][twitter]
-[![email](https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge)][mail]
+<p align="center">
+  <a href='https://hashnode.com/@arshWebDev'><img src="https://img.shields.io/badge/-hashnode-blue?style=flat&logo=hashnode" /></a>
+  <a href='https://twitter.com/arshWebDev'><img src="https://img.shields.io/badge/-twitter-white?style=flat&logo=twitter" /></a>
+  <a href='mailto:arshgoyalDev@gmail.com'><img src="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=flat" /></a>
 
 </p>
 
@@ -45,13 +46,6 @@ let arshWebDev = {
 [![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
-
-## Connect with me
-
-### Followers
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/arshWebDev?style=social)][twitterfollowers]
-[![](https://img.shields.io/github/followers/arshWebDev?label=GitHub%20Followers&style=social)][githubfollowers]
 
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshWebDev
