@@ -5,7 +5,6 @@
 <p align="center">
   <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" /></a>
   <a href='https://twitter.com/arshWebDev' target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" /></a>
-  <a href='mailto:arshgoyalDev@gmail.com' target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
