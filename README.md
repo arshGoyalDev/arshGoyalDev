@@ -3,14 +3,17 @@
 <br>
 
 <p align="center">
-  <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" /></a>
-  <a href='https://twitter.com/arshWebDev' target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" /></a>
+  <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
+  </a>
+  <a href='https://twitter.com/arshWebDev' target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.twitter.com/arshWebDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/arshWebDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0d1117"
-  />
+    <img src="https://img.shields.io/twitter/follow/arshWebDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
   <a href="https://www.github.com/arshWebDev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/arshWebDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
