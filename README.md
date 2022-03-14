@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://www.twitter.com/arshWebDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/arshWebDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+    <img src="https://img.shields.io/twitter/follow/arshWebDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0d1117"
   />
   </a>
   <a href="https://www.github.com/arshWebDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/arshWebDev?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+    <img src="https://img.shields.io/github/followers/arshWebDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
 </p>
 
