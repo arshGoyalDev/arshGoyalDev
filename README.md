@@ -61,14 +61,6 @@ Frameworks and libraries
   
 </p>
 
-Hosting
-
-<p>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-4c9cbf.svg?logo=netlify&logoColor=white">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-</p>
-
 Tools
 
 <p>
