@@ -29,7 +29,7 @@ let arshWebDev = {
   introduction: "I'm a Web Developer",
   location: "India",
   interest: "fullstack development",
-  learning: "react.js",
+  learning: "next.js",
   collaborate: "frontend projects",
   hobbies: ["programming", "reading"],
 };
