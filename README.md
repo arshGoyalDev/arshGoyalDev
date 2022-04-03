@@ -3,11 +3,11 @@
 <br>
 
 <p align="center">
-  <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
+  <!-- <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
-  </a>
+  </a> -->
   <a href='https://twitter.com/arshWebDev' target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/-twitter-white?style=flat&logo=twitter" />
   </a>
 </p>
 
@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/github/followers/arshWebDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
 </p>
-
 
 ## About Me
 
@@ -52,15 +51,21 @@ Programming languages
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
-Frameworks and libraries
+Frameworks & libraries
 
 <p>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?logo=tailwind-css&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
-  <!-- <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/> -->
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/>
   <!-- <img alt="Material UI" src="https://img.shields.io/badge/MUI-ffffff.svg?logo=mui&logoColor=007fff">   -->
-  
+</p>
+
+Databases & Backend
+
+<p>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase">
+
 </p>
 
 Tools
@@ -68,7 +73,6 @@ Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Vivaldi" src="https://img.shields.io/badge/-Vivaldi-df3535?logo=vivaldi&logoColor=white">
 </p>
 
 ## GitHub Stats
