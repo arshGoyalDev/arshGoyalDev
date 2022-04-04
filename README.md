@@ -56,8 +56,8 @@ Frameworks & libraries
 <p>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?logo=tailwind-css&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
   <!-- <img alt="Material UI" src="https://img.shields.io/badge/MUI-ffffff.svg?logo=mui&logoColor=007fff">   -->
 </p>
 
@@ -65,7 +65,6 @@ Databases & Backend
 
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase">
-
 </p>
 
 Tools
