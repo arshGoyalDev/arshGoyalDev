@@ -41,7 +41,7 @@ let arshWebDev = {
 
 ## Technologies
 
-Programming languages
+#### Programming languages
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -51,7 +51,7 @@ Programming languages
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
-Frameworks & libraries
+#### Frameworks & libraries
 
 <p>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?logo=tailwind-css&logoColor=white">
@@ -61,13 +61,13 @@ Frameworks & libraries
   <!-- <img alt="Material UI" src="https://img.shields.io/badge/MUI-ffffff.svg?logo=mui&logoColor=007fff">   -->
 </p>
 
-Databases & Backend
+#### Databases & Backend
 
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase">
 </p>
 
-Tools
+#### Tools
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
