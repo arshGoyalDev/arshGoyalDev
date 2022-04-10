@@ -61,7 +61,7 @@ let arshWebDev = {
   <!-- <img alt="Material UI" src="https://img.shields.io/badge/MUI-ffffff.svg?logo=mui&logoColor=007fff">   -->
 </p>
 
-#### Databases & Backend
+#### Databases
 
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase">
