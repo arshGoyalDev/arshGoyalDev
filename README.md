@@ -6,17 +6,17 @@
   <!-- <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
   </a> -->
-  <a href='https://twitter.com/arshWebDev' target="_blank" rel="noreferrer">
+  <a href='https://twitter.com/arshGoyalDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.twitter.com/arshWebDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/arshWebDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0d1117" />
+  <a href="https://www.twitter.com/arshGoyalDev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/arshgGoyalDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
-  <a href="https://www.github.com/arshWebDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/arshWebDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
+  <a href="https://www.github.com/arshGoyalDev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/arshGoyalDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 <h3>
 
 ```js
-let arshWebDev = {
+let arshGoyalDev = {
   introduction: "I'm a Web Developer",
   location: "India",
   interest: "fullstack development",
@@ -76,16 +76,16 @@ let arshWebDev = {
 
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=arshWebDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
+[![](https://github-readme-stats.vercel.app/api?username=arshGoyalDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshWebDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
+[![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
-[![](https://activity-graph.herokuapp.com/graph?username=arshWebDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
+[![](https://activity-graph.herokuapp.com/graph?username=arshGoyalDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
 [mail]: mailto:arshgoyalDev@gmail.com
-[github]: https://github.com/arshWebDev
-[githubfollowers]: https://github.com/arshWebDev?tab=followers
-[twitter]: https://twitter.com/arshWebDev
-[twitterfollowers]: https://twitter.com/arshWebDev/followers
-[hashnode]: https://hashnode.com/@arshWebDev
-[bio.link]: https://bio.link/arshWebDev
+[github]: https://github.com/arshGoyalDev
+[githubfollowers]: https://github.com/arshGoyalDev?tab=followers
+[twitter]: https://twitter.com/arshGoyalDev
+[twitterfollowers]: https://twitter.com/arshGoyalDev/followers
+[hashnode]: https://hashnode.com/@arshGoyalDev
+[bio.link]: https://bio.link/arshGoyalDev
