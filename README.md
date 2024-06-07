@@ -6,14 +6,14 @@
   <!-- <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
   </a> -->
-  <a href='https://twitter.com/arshGoyalDev' target="_blank" rel="noreferrer">
+  <a href='https://x.com/arshGoyalDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.twitter.com/arshGoyalDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/arshgGoyalDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0d1117" />
+  <a href="https://www.x.com/arshGoyalDev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/arshGoyalDev?logo=x&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
   <a href="https://www.github.com/arshGoyalDev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/arshGoyalDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
@@ -82,10 +82,14 @@ let arshGoyalDev = {
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshGoyalDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
+
+
+
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshGoyalDev
 [githubfollowers]: https://github.com/arshGoyalDev?tab=followers
-[twitter]: https://twitter.com/arshGoyalDev
-[twitterfollowers]: https://twitter.com/arshGoyalDev/followers
+[twitter]: https://x.com/arshGoyalDev
+[twitterfollowers]: https://x.com/arshGoyalDev/followers
 [hashnode]: https://hashnode.com/@arshGoyalDev
 [bio.link]: https://bio.link/arshGoyalDev
+
