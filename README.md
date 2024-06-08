@@ -26,7 +26,7 @@
 
 ```js
 let arshGoyalDev = {
-  introduction: "I'm a Web Developer",
+  introduction: "I'm a Developer",
   location: "India",
   interest: "fullstack development",
   learning: "next.js",
