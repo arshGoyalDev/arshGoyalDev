@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <!-- <a href='https://hashnode.com/@arshWebDev' target="_blank" rel="noreferrer">
+  <!-- <a href='https://hashnode.com/@arshGoyalDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
   </a> -->
   <a href='https://x.com/arshGoyalDev' target="_blank" rel="noreferrer">
