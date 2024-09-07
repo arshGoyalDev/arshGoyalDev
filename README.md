@@ -6,15 +6,15 @@
   <!-- <a href='https://hashnode.com/@arshGoyalDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
   </a> -->
-  <a href='https://x.com/arshGoyalDev' target="_blank" rel="noreferrer">
+  <!-- <a href='https://x.com/arshGoyalDev' target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
-  <a href="https://www.x.com/arshGoyalDev" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.x.com/arshGoyalDev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/arshGoyalDev?logo=x&style=for-the-badge&color=3382ed&labelColor=0d1117" />
-  </a>
+  </a> -->
   <a href="https://www.github.com/arshGoyalDev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/arshGoyalDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
@@ -49,6 +49,7 @@ let arshGoyalDev = {
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white" >
 </p>
 
 #### Frameworks & libraries
