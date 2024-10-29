@@ -1,20 +1,8 @@
-<img src="./assets/Hello-2.gif" width="100%">
+<img src="./assets/Hello.gif" width="100%">
 
 <br>
 
 <p align="center">
-  <!-- <a href='https://hashnode.com/@arshGoyalDev' target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-hashnode-blue?style=for-the-badge&logo=hashnode" />
-  </a> -->
-  <!-- <a href='https://x.com/arshGoyalDev' target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter" />
-  </a> -->
-</p>
-
-<p align="center">
-  <!-- <a href="https://www.x.com/arshGoyalDev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/arshGoyalDev?logo=x&style=for-the-badge&color=3382ed&labelColor=0d1117" />
-  </a> -->
   <a href="https://www.github.com/arshGoyalDev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/arshGoyalDev?logo=github&style=for-the-badge&color=3382ed&labelColor=0d1117" />
   </a>
@@ -28,10 +16,10 @@
 let arshGoyalDev = {
   introduction: "I'm a Developer",
   location: "India",
-  interest: "fullstack development",
-  learning: "next.js",
-  collaborate: "frontend projects",
-  hobbies: ["programming", "reading"],
+  interest: "Fullstack Development",
+  learning: "Rust",
+  collaborate: "Fullstack Projects",
+  hobbies: ["programming", "reading", ...moreHobbies],
 };
 ```
 
@@ -49,6 +37,7 @@ let arshGoyalDev = {
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <!-- <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> -->
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white" >
 </p>
 
@@ -59,13 +48,15 @@ let arshGoyalDev = {
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
-  <!-- <img alt="Material UI" src="https://img.shields.io/badge/MUI-ffffff.svg?logo=mui&logoColor=007fff">   -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white">  
+  <img alt="Express" src="  https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white" />
 </p>
 
 #### Databases
 
 <p>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase&logoColor=yellow">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
 </p>
 
 #### Tools
@@ -83,9 +74,6 @@ let arshGoyalDev = {
 
 [![](https://activity-graph.herokuapp.com/graph?username=arshGoyalDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
 
-
-
-
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshGoyalDev
 [githubfollowers]: https://github.com/arshGoyalDev?tab=followers
@@ -93,4 +81,3 @@ let arshGoyalDev = {
 [twitterfollowers]: https://x.com/arshGoyalDev/followers
 [hashnode]: https://hashnode.com/@arshGoyalDev
 [bio.link]: https://bio.link/arshGoyalDev
-
