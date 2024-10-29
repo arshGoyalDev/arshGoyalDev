@@ -49,7 +49,7 @@ let arshGoyalDev = {
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white">  
-  <img alt="Express" src="  https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white" />
 </p>
 
 #### Databases
