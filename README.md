@@ -38,7 +38,7 @@ let arshGoyalDev = {
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <!-- <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> -->
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white" >
+  <!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white" > -->
 </p>
 
 #### Frameworks & libraries
