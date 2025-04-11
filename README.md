@@ -37,7 +37,7 @@ let arshGoyalDev = {
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <!-- <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> -->
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> 
   <!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white" > -->
 </p>
 
@@ -79,5 +79,4 @@ let arshGoyalDev = {
 [githubfollowers]: https://github.com/arshGoyalDev?tab=followers
 [twitter]: https://x.com/arshGoyalDev
 [twitterfollowers]: https://x.com/arshGoyalDev/followers
-[hashnode]: https://hashnode.com/@arshGoyalDev
 [bio.link]: https://bio.link/arshGoyalDev
