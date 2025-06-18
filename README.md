@@ -16,9 +16,9 @@
 let arshGoyalDev = {
   introduction: "I'm a Developer",
   location: "India",
-  interest: "Fullstack Development",
-  learning: "Rust",
-  collaborate: "Fullstack Projects",
+  interest: ["Web Development", "Developer Tools", "DevOps"],
+  learning: ["", "System Design", "Cloud Infrastructure", "Scalable Applications"],
+  collaborate: ["Web Apps", "Rust Projects"],
   hobbies: ["programming", "reading", ...moreHobbies],
 };
 ```
@@ -29,27 +29,34 @@ let arshGoyalDev = {
 
 ## Technologies
 
-#### Programming languages
+#### Frontend
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?logo=tailwind-css&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> 
-  <!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white" > -->
-</p>
-
-#### Frameworks & libraries
-
-<p>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?logo=tailwind-css&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
+</p>
+
+#### Backend
+
+<p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white">  
   <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/Nest%20js-000000?logo=nestjs" />
+</p>
+
+#### Programming Languages
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> 
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=ffffff" >
+
 </p>
 
 #### Databases
@@ -57,6 +64,8 @@ let arshGoyalDev = {
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase&logoColor=yellow">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-ff0000?logo=redis&logoColor=white" />
+
 </p>
 
 #### Tools
@@ -64,6 +73,9 @@ let arshGoyalDev = {
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-f0f0f0?logo=aws&logoColor=yellow" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2396ed?logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-242938?logo=linux&logoColor=white" />
 </p>
 
 ## GitHub Stats
@@ -72,7 +84,7 @@ let arshGoyalDev = {
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
-[![](https://activity-graph.herokuapp.com/graph?username=arshGoyalDev&bg_color=0d1117&color=bdcbd3&line=1f6fea&point=5f6063&hide_border=true)][github]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshGoyalDev&langs_count=20&layout=compact&theme=github_dark&hide_border=true)][github]
 
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshGoyalDev
