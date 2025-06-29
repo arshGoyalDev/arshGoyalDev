@@ -1,5 +1,6 @@
 <img src="./assets/Hello.gif" width="100%">
 
+
 <br>
 
 <p align="center">
@@ -81,6 +82,8 @@ let arshGoyalDev = {
 ## GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=arshGoyalDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
