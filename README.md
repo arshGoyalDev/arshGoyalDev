@@ -85,8 +85,6 @@ let arshGoyalDev = {
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshGoyalDev&langs_count=20&layout=compact&theme=github_dark&hide_border=true)][github]
 
 [mail]: mailto:arshgoyalDev@gmail.com
@@ -95,3 +93,4 @@ let arshGoyalDev = {
 [twitter]: https://x.com/arshGoyalDev
 [twitterfollowers]: https://x.com/arshGoyalDev/followers
 [bio.link]: https://bio.link/arshGoyalDev
+
