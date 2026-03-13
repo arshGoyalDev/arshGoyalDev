@@ -41,7 +41,6 @@ let arshGoyalDev = {
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextdotjs"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
 </p>
 
 #### Backend
@@ -56,17 +55,18 @@ let arshGoyalDev = {
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324" /> 
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=ffffff" >
-
+    <img alt="Rust" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow" /> 
+  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=ffffff" >
+  <img alt="CPP" src="https://img.shields.io/badge/C++-%2300599C.svg?&logo=cplusplus&logoColor=ffffff" >
 </p>
 
 #### Databases
 
 <p>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase&logoColor=yellow">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-ff0000?logo=redis&logoColor=white" />
-
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-fff.svg?logo=firebase&logoColor=yellow">
 </p>
 
 #### Tools
@@ -77,17 +77,17 @@ let arshGoyalDev = {
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f0f0f0?logo=aws&logoColor=yellow" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2396ed?logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-242938?logo=linux&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white" />
 </p>
 
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=arshGoyalDev&show_icons=true&count_private=true&theme=github_dark&hide_border=true)][github]
+[![](https://github-readme-stats.vercel.app/api?username=arshGoyalDev&show_icons=true&count_private=true&theme=dark&hide_border=true)][github]
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
+[![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=arshGoyalDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)][github]
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshGoyalDev&langs_count=20&layout=compact&theme=github_dark&hide_border=true)][github]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshGoyalDev&langs_count=20&layout=compact&theme=dark&hide_border=true)][github]
 
 [mail]: mailto:arshgoyalDev@gmail.com
 [github]: https://github.com/arshGoyalDev
