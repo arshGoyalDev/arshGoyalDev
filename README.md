@@ -18,7 +18,7 @@ let arshGoyalDev = {
   introduction: "I'm a Developer",
   location: "India",
   interest: ["Web Development", "Developer Tools", "DevOps"],
-  learning: ["", "System Design", "Cloud Infrastructure", "Scalable Applications"],
+  learning: ["System Design", "Cloud Infrastructure", "Scalable Applications", ...more],
   collaborate: ["Web Apps", "Rust Projects"],
   hobbies: ["programming", "reading", ...moreHobbies],
 };
@@ -26,7 +26,7 @@ let arshGoyalDev = {
 
 </h3>
 
-- You can reach me out [here][bio.link]
+- You can reach me out [here](https://www.arshgoyal.tech)
 
 ## Technologies
 
